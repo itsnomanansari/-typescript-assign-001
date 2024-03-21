@@ -1,3 +1,3 @@
 "use strict";
-let personal = "khushamdeed Noman, Tou kaise hein ap sab?";
-console.log(personal);
+let personal = "Noman";
+console.log("khushamdeed " + personal + "," + "Tou kaise hein ap sab?");
